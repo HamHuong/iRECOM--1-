@@ -1,0 +1,435 @@
+[
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Getting Started as a Web Developer", "Supplier": ["Udemy"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with NativeScript", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Tables Data & Networking in iOS", "Supplier": ["Coursera", "LearnQuest"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "iOS App Store & In-App Purchases", "Supplier": ["Coursera", "LearnQuest"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "3D Graphics in Android: Sensors and VR", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Handheld AR App Development with Unity", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Android graphics", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Android Graphics with OpenGL ES", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with React Native", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Mobile VR App Development with Unity", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Getting Started as a Web Developer", "Supplier": ["Udemy"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with NativeScript", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Tables Data & Networking in iOS", "Supplier": ["Coursera", "LearnQuest"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "iOS App Store & In-App Purchases", "Supplier": ["Coursera", "LearnQuest"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "3D Graphics in Android: Sensors and VR", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Handheld AR App Development with Unity", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Android graphics", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Android Graphics with OpenGL ES", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with React Native", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Mobile VR App Development with Unity", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Introduction to Structured Query Language (SQL)", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Building Cloud Services with the Java Spring Framework", "Supplier": ["Coursera", "Vanderbilt University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Server-side Development with NodeJS Express and MongoDB", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "JavaScript jQuery and JSON", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End JavaScript Frameworks: Angular", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Introduction to Web Development", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Java for Android", "Supplier": ["Coursera", "Vanderbilt University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Developing Android Apps with App Inventor", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Mastering Web3 with Waves", "Supplier": ["Coursera", "E-Learning Development Fund"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Augmented Reality and ARCore", "Supplier": ["Coursera", "Google AR & VR"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "HTML CSS and Javascript for Web Developers", "Supplier": ["Coursera", "Johns Hopkins University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Introduction to HTML5", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End Web UI Frameworks and Tools: Bootstrap 4", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End Web Development with React", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Programming Foundations with JavaScript HTML and CSS", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Secure Networked System with Firewall and IDS", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Azure Infrastructure Fundamentals", "Supplier": ["Coursera", "LearnQuest"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Identifying Security Vulnerabilities in C/C++Programming", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cryptographic Hash and Integrity Protection", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Security and Privacy in TOR Network", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cybersecurity Capstone Project", "Supplier": ["Coursera", "University of Maryland College Park"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Basic Cryptography and Programming with Crypto API", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Design and Analyze Secure Networked Systems", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Asymmetric Cryptography and Key Management", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cryptography and Information Theory", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Hacking and Patching", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Exploiting and Securing Vulnerabilities in Java Applications", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Principles of Secure Coding", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Real-Time Cyber Threat Detection and Mitigation", "Supplier": ["Coursera", "New York University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cybersecurity and the Internet of Things", "Supplier": ["Coursera", "University System of Georgia"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Identifying Security Vulnerabilities", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Enterprise and Infrastructure Security", "Supplier": ["Coursera", "New York University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Blockchain Transformations of Financial Services", "Supplier": ["Coursera", "INSEAD"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to Architecting Smart IoT Devices", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Networks Illustrated: Principles without Calculus", "Supplier": ["Coursera", "Princeton University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Networks: Friends Money and Bytes", "Supplier": ["Coursera", "Princeton University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cyber Attack Countermeasures", "Supplier": ["Coursera", "New York University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Managing G Suite", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "G Suite Security", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Planning for your G Suite Deployment", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Blockchain Cryptoassets and Decentralized Finance", "Supplier": ["Coursera", "INSEAD"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "G Suite Mail Management", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "How Computers Work", "Supplier": ["Coursera", "University of London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Information Security: Context and Introduction", "Supplier": ["Coursera", "University of London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cybersecurity and Its Ten Domains", "Supplier": ["Coursera", "University System of Georgia"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to TCP/IP", "Supplier": ["Coursera", "Yonsei University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Blockchain: Foundations and Use Cases", "Supplier": ["Coursera", "ConsenSys Academy"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to Blockchain for Financial Services", "Supplier": ["Coursera", "INSEAD"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Develop and Deploy Windows Applications on Google Cloud Platform", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "The Business of Cybersecurity Capstone", "Supplier": ["Coursera", "University System of Georgia"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "How Computers Work", "Supplier": ["Coursera", "University of London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Information Security: Context and Introduction", "Supplier": ["Coursera", "University of London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Motion Planning for Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Capstone: Autonomous Runway Detection for IoT", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "System Validation (4): Modelling Software Protocols and other behaviour", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "System Validation (3): Requirements by modal formulas", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Visual Perception for Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "The Fundamentals of Computing Capstone Exam", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Automated Reasoning: Symbolic Model Checking", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "System Validation (2): Model process behaviour", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "State Estimation and Localization for Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "3D Art and Audio Pipeline", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Algorithmic Thinking (Part 1)", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Automated Analysis", "Supplier": ["Coursera", "University of Minnesota"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Algorithmic Thinking (Part 2)", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Advanced App Development in Android Capstone", "Supplier": ["Coursera", "Imperial College London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "3D Interactions and Navigation", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Continuous Integration", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Black-box and White-box Testing", "Supplier": ["Coursera", "University of Minnesota"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Black-box and White-box Testing", "Supplier": ["Coursera", "University of Minnesota"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "On Premises Capacity Upgrade and Monitoring with Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Advanced Deployment Scenarios with TensorFlow", "Supplier": ["Coursera", "deeplearning.ai"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Blockchain Platforms", "Supplier": ["Coursera", "University at Buffalo"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Application Systems Programming", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "On Premises Management Security and Upgrade with Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Web and Mobile Testing with Selenium", "Supplier": ["Coursera", "University of Minnesota"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Parallel programming", "Supplier": ["Coursera", "École Polytechnique Fédérale de Lausanne"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Decentralized Applications (Dapps)", "Supplier": ["Coursera", "University at Buffalo"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Service-Oriented Architecture", "Supplier": ["Coursera", "University of Alberta"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Pipelines with TensorFlow Data Services", "Supplier": ["Coursera", "deeplearning.ai"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "App Deployment Debugging and Performance", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Core Interaction Programming", "Supplier": ["Coursera", "Unity"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Functional Program Design in Scala", "Supplier": ["Coursera", "École Polytechnique Fédérale de Lausanne"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Embedded Hardware and Operating Systems", "Supplier": ["Coursera", "EIT Digital"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Basic Modeling for Discrete Optimization", "Supplier": ["Coursera", "The University of Melbourne"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "On Premises Installation and Fundamentals with Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Architecting with Google Kubernetes Engine: Production", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Software Architecture", "Supplier": ["Coursera", "University of Alberta"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "API Security on Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Device-based Models with TensorFlow Lite", "Supplier": ["Coursera", "deeplearning.ai"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Architecting with Google Kubernetes Engine: Production", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Design Patterns", "Supplier": ["Coursera", "University of Alberta"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Project: pillow tesseract and opencv", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Concurrency in Go", "Supplier": ["Coursera", "University of California Irvine"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Programming Languages Part B", "Supplier": ["Coursera", "University of Washington"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Smart Contracts", "Supplier": ["Coursera", "University at Buffalo"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Software Testing", "Supplier": ["Coursera", "University of Minnesota"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Browser-based Models with TensorFlow.js", "Supplier": ["Coursera", "deeplearning.ai"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Functions Methods and Interfaces in Go", "Supplier": ["Coursera", "University of California Irvine"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Browser-based Models with TensorFlow.js", "Supplier": ["Coursera", "deeplearning.ai"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Functions Methods and Interfaces in Go", "Supplier": ["Coursera", "University of California Irvine"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Object-Oriented Data Structures in C++", "Supplier": ["Coursera", "University of Illinois at Urbana-Champaign"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Building Scalable Java Microservices with Spring Boot and Spring Cloud", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Object-Oriented Design", "Supplier": ["Coursera", "University of Alberta"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Collection and Processing with Python", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "DevOps Culture and Mindset", "Supplier": ["Coursera", "University of California Davis"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Structures", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Version Control with Git", "Supplier": ["Coursera", "Atlassian"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Game Development", "Supplier": ["Coursera", "Michigan State University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Kotlin for Java Developers", "Supplier": ["Coursera", "JetBrains"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning", "Supplier": ["Coursera", "deeplearning.ai"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Analysis", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "An Introduction to Interactive Programming in Python (Part 2)", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Requirements Gathering for Secure Software Development", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Lean Software Development", "Supplier": ["Coursera", "University of Minnesota"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Programming for Everybody (Getting Started with Python)", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "RPA Lifecycle: Introduction Discovery and Design", "Supplier": ["Coursera", "Automation Anywhere"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Representations", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications", "Supplier": ["Coursera", "Intel"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Representations", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications", "Supplier": ["Coursera", "Intel"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Programming: A Concise Introduction", "Supplier": ["Coursera", "Wesleyan University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "COBOL Programming with VSCode", "Supplier": ["Coursera", "IBM"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Computer Programming", "Supplier": ["Coursera", "University of London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Blockchain Basics", "Supplier": ["Coursera", "University at Buffalo"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Programming Essentials", "Supplier": ["Coursera", "Rice University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Computer Science: Programming with a Purpose", "Supplier": ["Coursera", "Princeton University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Agile with Atlassian Jira", "Supplier": ["Coursera", "Atlassian"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Basics", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Machine Learning for All", "Supplier": ["Coursera", "University of London"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Continuous Delivery & DevOps", "Supplier": ["Coursera", "University of Virginia"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "SRS Documents: Requirements and Diagrammatic Notations", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Cloud Computing Fundamentals on Alibaba Cloud", "Supplier": ["Coursera", "Alibaba Cloud Academy"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to OpenCL on FPGAs", "Supplier": ["Coursera", "Intel"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Protecting Cloud Architecture with Alibaba Cloud", "Supplier": ["Coursera", "Alibaba Cloud Academy"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Processing Using Python", "Supplier": ["Coursera", "Nanjing University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Principles of Software Design", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Pointers Arrays and Recursion", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "RPA Lifecycle: Development and Testing", "Supplier": ["Coursera", "Automation Anywhere"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Arrays Lists and Structured Data", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Writing Running and Fixing Code in C", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Problem Solving Python Programming and Video Games", "Supplier": ["Coursera", "University of Alberta"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Linux for Developers", "Supplier": ["Coursera", "The Linux Foundation"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming and Animation with Alice", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Learn to Program: The Fundamentals", "Supplier": ["Coursera", "University of Toronto"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming with MATLAB", "Supplier": ["Coursera", "Vanderbilt University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Solving Problems with Software", "Supplier": ["Coursera", "Duke University"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Functions Files and Dictionaries", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Building Conversational Experiences with Dialogflow", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "C for Everyone: Programming Fundamentals", "Supplier": ["Coursera", "University of California Santa Cruz"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Code Yourself! An Introduction to Programming", "Supplier": ["Coursera", "The University of Edinburgh"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to C# Programming and Unity", "Supplier": ["Coursera", "University of Colorado System"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming in Swift 5", "Supplier": ["Coursera", "LearnQuest"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Industrial IoT on Google Cloud Platform", "Supplier": ["Coursera", "Google Cloud"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Programming for Everybody (Getting Started with Python)", "Supplier": ["Coursera", "University of Michigan"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "React native cơ bản", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Giới thiệu HTML5 và CSS3 cơ bản", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Javascript nâng cao ES6", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình TYPESCRIPT qua project thực tế", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Xây dựng Multi-level menu với CSS Position", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Quản trị mạng quốc tế CCNA qua các bài Lab (Phần 1)", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "JavaScript dành cho người mới bắt đầu", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Xây dựng SPA Shopping Cart bằng JS đơn thuần", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình TypeScript", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình TYPESCRIPT qua project thực tế", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình Fullstack với Angular – PHP – MySQL", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình Python cơ bản", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình C/C++từ cơ bản đến nâng cao", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "An ninh mạng cho Enduser", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình Backend cho website bằng PHP/Mysql theo mô hình MVC", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Học SASS và cắt web từ file thiết kế Photoshop theo kiểu SASS", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Học cách sử dụng git & github cho lập trình và thiết kế website", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "An ninh mạng cho Enduser", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình Java trong 4 tuần", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Lập trình Android cơ bản", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Lập trình Android nâng cao", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Cơ sở dữ liệu", "Title": "Lập trình Webservice cho Di Động", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế và tối ưu website cho marketers", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 3", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Nhập môn lập trình máy tính", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 1", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 2", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 3", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế giao diện website với HTML và CSS", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế website với HTML", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Trang trí website bằng CSS", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Photoshop cho thiết kế web", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế Layout cho website với HTML5 và CSS3", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Đồ án thực hành từ Photoshop tới website", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Quản trị mạng cơ bản", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "C# nâng cao", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "LinQ chuyên sâu", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Khoa học dữ liệu", "Title": "Lập trình RESTful Webservice trong 6 tuần", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Nhập môn lập trình máy tính", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 1", "Supplier": ["Kyna"]},
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 2", "Supplier": ["Kyna"]}
+]{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Getting Started as a Web Developer", "Supplier": ["Udemy"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with NativeScript", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Tables Data & Networking in iOS", "Supplier": ["Coursera", "LearnQuest"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "iOS App Store & In-App Purchases", "Supplier": ["Coursera", "LearnQuest"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "3D Graphics in Android: Sensors and VR", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with React Native", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Mobile VR App Development with Unity", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Handheld AR App Development with Unity", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Android graphics", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Android Graphics with OpenGL ES", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Getting Started as a Web Developer", "Supplier": ["Udemy"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with NativeScript", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Tables Data & Networking in iOS", "Supplier": ["Coursera", "LearnQuest"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "iOS App Store & In-App Purchases", "Supplier": ["Coursera", "LearnQuest"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "3D Graphics in Android: Sensors and VR", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Handheld AR App Development with Unity", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Android graphics", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Android Graphics with OpenGL ES", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Multiplatform Mobile App Development with React Native", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Mobile VR App Development with Unity", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Introduction to Structured Query Language (SQL)", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Building Cloud Services with the Java Spring Framework", "Supplier": ["Coursera", "Vanderbilt University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Server-side Development with NodeJS Express and MongoDB", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "JavaScript jQuery and JSON", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End JavaScript Frameworks: Angular", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Augmented Reality and ARCore", "Supplier": ["Coursera", "Google AR & VR"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "HTML CSS and Javascript for Web Developers", "Supplier": ["Coursera", "Johns Hopkins University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Introduction to HTML5", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End Web UI Frameworks and Tools: Bootstrap 4", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End Web Development with React", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Mastering Web3 with Waves", "Supplier": ["Coursera", "E-Learning Development Fund"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Introduction to Augmented Reality and ARCore", "Supplier": ["Coursera", "Google AR & VR"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "HTML CSS and Javascript for Web Developers", "Supplier": ["Coursera", "Johns Hopkins University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Introduction to HTML5", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Front-End Web UI Frameworks and Tools: Bootstrap 4", "Supplier": ["Coursera", "The Hong Kong University of Science and Technology"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Secure Networked System with Firewall and IDS", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Azure Infrastructure Fundamentals", "Supplier": ["Coursera", "LearnQuest"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cybersecurity Capstone Project", "Supplier": ["Coursera", "University of Maryland College Park"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Basic Cryptography and Programming with Crypto API", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Identifying Security Vulnerabilities in C/C++Programming", "Supplier": ["Coursera", "University of California Davis"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cryptographic Hash and Integrity Protection", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Security and Privacy in TOR Network", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Design and Analyze Secure Networked Systems", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Asymmetric Cryptography and Key Management", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cryptography and Information Theory", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Hacking and Patching", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Exploiting and Securing Vulnerabilities in Java Applications", "Supplier": ["Coursera", "University of California Davis"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Principles of Secure Coding", "Supplier": ["Coursera", "University of California Davis"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Real-Time Cyber Threat Detection and Mitigation", "Supplier": ["Coursera", "New York University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cybersecurity and the Internet of Things", "Supplier": ["Coursera", "University System of Georgia"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Enterprise and Infrastructure Security", "Supplier": ["Coursera", "New York University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Principles of Secure Coding", "Supplier": ["Coursera", "University of California Davis"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Blockchain Transformations of Financial Services", "Supplier": ["Coursera", "INSEAD"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to Architecting Smart IoT Devices", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Networks Illustrated: Principles without Calculus", "Supplier": ["Coursera", "Princeton University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Networks: Friends Money and Bytes", "Supplier": ["Coursera", "Princeton University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cyber Attack Countermeasures", "Supplier": ["Coursera", "New York University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Managing G Suite", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "G Suite Security", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Planning for your G Suite Deployment", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Blockchain Cryptoassets and Decentralized Finance", "Supplier": ["Coursera", "INSEAD"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "G Suite Mail Management", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "How Computers Work", "Supplier": ["Coursera", "University of London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Information Security: Context and Introduction", "Supplier": ["Coursera", "University of London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Cybersecurity and Its Ten Domains", "Supplier": ["Coursera", "University System of Georgia"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to TCP/IP", "Supplier": ["Coursera", "Yonsei University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Blockchain: Foundations and Use Cases", "Supplier": ["Coursera", "ConsenSys Academy"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to Blockchain for Financial Services", "Supplier": ["Coursera", "INSEAD"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Develop and Deploy Windows Applications on Google Cloud Platform", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "The Business of Cybersecurity Capstone", "Supplier": ["Coursera", "University System of Georgia"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Introduction to G Suite", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "How Computers Work", "Supplier": ["Coursera", "University of London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Visual Perception for Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Motion Planning for Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Capstone: Autonomous Runway Detection for IoT", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "System Validation (4): Modelling Software Protocols and other behaviour", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "System Validation (3): Requirements by modal formulas", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "System Validation (2): Model process behaviour", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "State Estimation and Localization for Self-Driving Cars", "Supplier": ["Coursera", "University of Toronto"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "The Fundamentals of Computing Capstone Exam", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Automated Reasoning: Symbolic Model Checking", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "3D Art and Audio Pipeline", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Algorithmic Thinking (Part 1)", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Automated Analysis", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Algorithmic Thinking (Part 2)", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Advanced App Development in Android Capstone", "Supplier": ["Coursera", "Imperial College London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "3D Interactions and Navigation", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Continuous Integration", "Supplier": ["Coursera", "University of California Davis"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Black-box and White-box Testing", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "On Premises Capacity Upgrade and Monitoring with Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Solving Algorithms for Discrete Optimization", "Supplier": ["Coursera", "The University of Melbourne"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Advanced Deployment Scenarios with TensorFlow", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Blockchain Platforms", "Supplier": ["Coursera", "University at Buffalo"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Application Systems Programming", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "On Premises Management Security and Upgrade with Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Web and Mobile Testing with Selenium", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Service-Oriented Architecture", "Supplier": ["Coursera", "University of Alberta"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Pipelines with TensorFlow Data Services", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "App Deployment Debugging and Performance", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Pipelines with TensorFlow Data Services", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "App Deployment Debugging and Performance", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Basic Modeling for Discrete Optimization", "Supplier": ["Coursera", "The University of Melbourne"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "On Premises Installation and Fundamentals with Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Core Interaction Programming", "Supplier": ["Coursera", "Unity"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Functional Program Design in Scala", "Supplier": ["Coursera", "École Polytechnique Fédérale de Lausanne"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Embedded Hardware and Operating Systems", "Supplier": ["Coursera", "EIT Digital"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Software Architecture", "Supplier": ["Coursera", "University of Alberta"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "API Security on Google Cloud’s Apigee API Platform", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Agile Software Development", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Device-based Models with TensorFlow Lite", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Architecting with Google Kubernetes Engine: Production", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Design Patterns", "Supplier": ["Coursera", "University of Alberta"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Project: pillow tesseract and opencv", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Concurrency in Go", "Supplier": ["Coursera", "University of California Irvine"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Programming Languages Part B", "Supplier": ["Coursera", "University of Washington"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Smart Contracts", "Supplier": ["Coursera", "University at Buffalo"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Software Testing", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Browser-based Models with TensorFlow.js", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Functions Methods and Interfaces in Go", "Supplier": ["Coursera", "University of California Irvine"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Browser-based Models with TensorFlow.js", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Functions Methods and Interfaces in Go", "Supplier": ["Coursera", "University of California Irvine"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Object-Oriented Data Structures in C++", "Supplier": ["Coursera", "University of Illinois at Urbana-Champaign"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Building Scalable Java Microservices with Spring Boot and Spring Cloud", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Object-Oriented Design", "Supplier": ["Coursera", "University of Alberta"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Collection and Processing with Python", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "DevOps Culture and Mindset", "Supplier": ["Coursera", "University of California Davis"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Structures", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Version Control with Git", "Supplier": ["Coursera", "Atlassian"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Kotlin for Java Developers", "Supplier": ["Coursera", "JetBrains"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning", "Supplier": ["Coursera", "deeplearning.ai"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "An Introduction to Interactive Programming in Python (Part 2)", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Requirements Gathering for Secure Software Development", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Lean Software Development", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Programming for Everybody (Getting Started with Python)", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Analysis", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Software Development Processes and Methodologies", "Supplier": ["Coursera", "University of Minnesota"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Open Source Software Development Methods", "Supplier": ["Coursera", "The Linux Foundation"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "RPA Lifecycle: Introduction Discovery and Design", "Supplier": ["Coursera", "Automation Anywhere"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Data Representations", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications", "Supplier": ["Coursera", "Intel"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Programming: A Concise Introduction", "Supplier": ["Coursera", "Wesleyan University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "COBOL Programming with VSCode", "Supplier": ["Coursera", "IBM"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Computer Programming", "Supplier": ["Coursera", "University of London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Blockchain Basics", "Supplier": ["Coursera", "University at Buffalo"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Programming Essentials", "Supplier": ["Coursera", "Rice University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Computer Science: Programming with a Purpose", "Supplier": ["Coursera", "Princeton University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Agile with Atlassian Jira", "Supplier": ["Coursera", "Atlassian"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Basics", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Machine Learning for All", "Supplier": ["Coursera", "University of London"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Continuous Delivery & DevOps", "Supplier": ["Coursera", "University of Virginia"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "SRS Documents: Requirements and Diagrammatic Notations", "Supplier": ["Coursera", "University of Colorado System"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Cloud Computing Fundamentals on Alibaba Cloud", "Supplier": ["Coursera", "Alibaba Cloud Academy"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to OpenCL on FPGAs", "Supplier": ["Coursera", "Intel"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Protecting Cloud Architecture with Alibaba Cloud", "Supplier": ["Coursera", "Alibaba Cloud Academy"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Data Processing Using Python", "Supplier": ["Coursera", "Nanjing University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Principles of Software Design", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Pointers Arrays and Recursion", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "RPA Lifecycle: Development and Testing", "Supplier": ["Coursera", "Automation Anywhere"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Arrays Lists and Structured Data", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Writing Running and Fixing Code in C", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Problem Solving Python Programming and Video Games", "Supplier": ["Coursera", "University of Alberta"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Linux for Developers", "Supplier": ["Coursera", "The Linux Foundation"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming and Animation with Alice", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Learn to Program: The Fundamentals", "Supplier": ["Coursera", "University of Toronto"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming with MATLAB", "Supplier": ["Coursera", "Vanderbilt University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Solving Problems with Software", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Python Functions Files and Dictionaries", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Building Conversational Experiences with Dialogflow", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming in Swift 5", "Supplier": ["Coursera", "LearnQuest"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Industrial IoT on Google Cloud Platform", "Supplier": ["Coursera", "Google Cloud"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Learn to Program: The Fundamentals", "Supplier": ["Coursera", "University of Toronto"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Introduction to Programming with MATLAB", "Supplier": ["Coursera", "Vanderbilt University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Java Programming: Solving Problems with Software", "Supplier": ["Coursera", "Duke University"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Phát triển Phần mềm", "Title": "Programming for Everybody (Getting Started with Python)", "Supplier": ["Coursera", "University of Michigan"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Giới thiệu HTML5 và CSS3 cơ bản", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Javascript nâng cao ES6", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "React native cơ bản", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình TYPESCRIPT qua project thực tế", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình Fullstack với Angular – PHP – MySQL", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình Python cơ bản", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình C/C++từ cơ bản đến nâng cao", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập Trình Kotlin Toàn Tập", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Xây dựng Multi-level menu với CSS Position", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "Quản trị mạng quốc tế CCNA qua các bài Lab (Phần 1)", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "JavaScript dành cho người mới bắt đầu", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Xây dựng SPA Shopping Cart bằng JS đơn thuần", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình TypeScript", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Adobe Animate CC 2017 toàn tập", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Mobile app development", "Title": "Lập trình Android nâng cao", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Cơ sở dữ liệu", "Title": "Lập trình Webservice cho Di Động", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế và tối ưu website cho marketers", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Adobe Animate CC 2017 toàn tập", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình Backend cho website bằng PHP/Mysql theo mô hình MVC", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Học SASS và cắt web từ file thiết kế Photoshop theo kiểu SASS", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Học cách sử dụng git & github cho lập trình và thiết kế website", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Bảo mật thông tin", "Title": "An ninh mạng cho Enduser", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình Java trong 4 tuần", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Khoa học dữ liệu", "Title": "Lập trình RESTful Webservice trong 6 tuần", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế giao diện website với HTML và CSS", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế website với HTML", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Trang trí website bằng CSS", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Photoshop cho thiết kế web", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế Layout cho website với HTML5 và CSS3", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Đồ án thực hành từ Photoshop tới website", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lấy tin tự động, HTACCESS và làm việc với AJAX trong PHP", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Cơ sở dữ liệu", "Title": "Cấu trúc Dữ liệu và Giải thuật (Tập 1)", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Lập trình hướng đối tượng từ cơ bản đến nâng cao trong PHP", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "C# căn bản", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Nhập môn lập trình máy tính", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 1", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 2", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Ngôn ngữ lập trình", "Title": "Lập trình web chuyên nghiệp với PHP – Level 3", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế giao diện website với HTML và CSS", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Thiết kế website với HTML", "Supplier": ["Kyna"]}
+{"Faculty": "Công nghệ thông tin", "Major": "Web development", "Title": "Trang trí website bằng CSS", "Supplier": ["Kyna"]}
